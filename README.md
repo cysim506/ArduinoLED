@@ -2,17 +2,23 @@
 <br>
 <br>
 
-## 프로젝트 수행 절차
+
 
 <img width="８00" alt="image" src="https://github.com/cysim506/ArduinoLED/blob/main/arduino1.PNG">
 <br>
 <br>
+
+## 부품 설명
+
 <img width="８00" alt="image" src="https://github.com/cysim506/ArduinoLED/blob/main/arduino2.PNG">
 <br>
 <br>
 <img width="８00" alt="image" src="https://github.com/cysim506/ArduinoLED/blob/main/arduino3.PNG">
 <br>
 <br>
+
+## 프로젝트 수행 절차
+
 <img width="８00" alt="image" src="https://github.com/cysim506/ArduinoLED/blob/main/arduino4.PNG">
 <br>
 <br>
